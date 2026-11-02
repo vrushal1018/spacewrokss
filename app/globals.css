@@ -12,8 +12,8 @@
   --rule: #D9D4CA;
   --blue: #2495D3;
   --tab: #1B7DB5;
-  --font-sans: var(--font-poppins), 'Poppins', Arial, sans-serif;
-  --font-tag: var(--font-montserrat), 'Montserrat', var(--font-sans);
+  --font-sans: 'Montserrat', Arial, sans-serif;
+  --font-tag: 'Montserrat', Arial, sans-serif;
   --pad: clamp(22px, 6.6vw, 96px);
   --max: 1440px;
 }

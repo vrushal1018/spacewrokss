@@ -19,8 +19,8 @@ const config: Config = {
         tab: "#1B7DB5",
       },
       fontFamily: {
-        sans: ["var(--font-poppins)", "Poppins", "Arial", "sans-serif"],
-        tag: ["var(--font-montserrat)", "Montserrat", "var(--font-poppins)", "sans-serif"],
+        sans: ["Montserrat", "Arial", "sans-serif"],
+        tag: ["Montserrat", "Arial", "sans-serif"],
       },
       letterSpacing: {
         widestcustom: "0.36em",
@@ -39,4 +39,3 @@ const config: Config = {
 };
 
 export default config;
-
